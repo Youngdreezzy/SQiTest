@@ -9,6 +9,10 @@ body{
 .thenav{
     margin-right: 10px;
 }
+.navimage{
+    width: 120px;
+    height: 50px;
+}
 
 .first{
     width: 40%;
